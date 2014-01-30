@@ -1,4 +1,6 @@
 scaling-dangerzone
 ==================
 
-Repo for my personal projects
+Repository for my expression interpreter.
+
+
